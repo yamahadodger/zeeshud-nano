@@ -1,12 +1,3 @@
-![ZEESHUD](https://i.imgur.com/UdOlF5w.png "zeeshud logo")
-**CURRENT VERSION :** ALPHA IV
+\*Blah-blah-blah-blah\* __ZeesHUD__. Just a bit more unfucked code-wise.
 
-# What is ZeesHUD?
-ZeesHUD is a work-in-progress stylish and ambitious HUD project for Team Fortress 2. The full first release will feature extensive customization options, ranging from colors to outright altering the style of an element.
-
-# What changes have been made?
-
-Donor box has been removed from the main menu and the full screen pop up is (hopefully) disabled.
-
-# Zeesastrous has rq'd from the internet
-Alongside that, they deleted the Zeeshud repo. This one is the most up-to-date one. This one's always here to fork.
+I am spending my time mainly on fixing minor bugs and making the code legible for editing, also making this HUD debloated from any of additions, just ZeesHUD with the purely technical aspect to it (no custom click sound for a menu HUD label, no custom backgrounds, everything just to shrink the size of an already humongous HUD).
